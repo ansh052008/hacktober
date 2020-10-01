@@ -1,4 +1,4 @@
-# hacktober pull request guidelines
+# Hacktober
 
 Send any type of pull requests here. Add something interesting or just format the files. All pull requests containing anything, except contents offensive to any group or community or copyright infringing material, will be merged. It may take a while but all pull requests will be merged eventually.
 
