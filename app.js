@@ -2,7 +2,7 @@ const yargs = require('yargs');
 const notes = require('./notes.js');
 
 yargs.command({
-    command: 'add',
+    command: 'subtract',
     describe: 'Add a new note',
     builder: {
         title: {
@@ -16,7 +16,7 @@ yargs.command({
             type: 'string',
         },
     },
-    handler: (argv) => {
+    handler: (argv) -> {
         notes.addNote(argv.title, argv.body);
     },
 });
