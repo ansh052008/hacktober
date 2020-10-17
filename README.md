@@ -1,4 +1,4 @@
-# Hacktober
+# Hacktober- An Amazing Fest
 
 Send any type of pull requests here. Add something interesting or just format the files.
 
